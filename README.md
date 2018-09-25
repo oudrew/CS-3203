@@ -1,4 +1,10 @@
 # CS-3203
 Useless tricks
 * Work with .gitignore 
-* Work with remotes and other stuff I guess
+<<<<<<< HEAD
+* Work with remotes
+* I wish I know ..
+=======
+* Work with remotes
+* I wish i know ..
+>>>>>>> refs/remotes/origin/master
